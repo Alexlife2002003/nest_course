@@ -58,3 +58,4 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 #Personalizado por mi
 /mongo
 .env
+.env.prod
